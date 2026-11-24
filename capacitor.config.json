@@ -1,0 +1,9 @@
+{
+  "appId": "id.co.gsdi.ohsdi.operationcontrol",
+  "appName": "OH SDI Operation Control",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
